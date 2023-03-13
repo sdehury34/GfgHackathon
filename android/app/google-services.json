@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388957295175",
+    "project_id": "nitc-coin",
+    "storage_bucket": "nitc-coin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388957295175:android:8e1dbd7fa1dbfa302f5762",
+        "android_client_info": {
+          "package_name": "com.example.nitc_coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388957295175-bltmn5r0gr0g8579kagu2nu3dusp496u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz3yOBSCChIQcAr7D_0PsGjDPdZQ4VhWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388957295175-bltmn5r0gr0g8579kagu2nu3dusp496u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
